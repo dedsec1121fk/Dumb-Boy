@@ -9,7 +9,11 @@
 - **T-Login**: Manage user logins with the T-Login script.
 - **Customization**: Launch the customization script to modify your Termux environment.
 
-The scripts listed in the menu must be present in the following directory structure:
+## Requirements
+
+- **Termux**: Install the Termux app on your Android device.
+- **Python**: Ensure that Python is installed in Termux (`pkg install python`).
+- The scripts listed in the menu must be present in the following directory structure:
 
 ```
 ~/Dumb Boy/
@@ -30,21 +34,28 @@ The scripts listed in the menu must be present in the following directory struct
         ├── customization.py
 ```
 
-## Usage
+## Installation
 
-When you run `db.py`, you will see a menu with the following options:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dedsec1121fk/Dumb-Boy.git
+   ```
 
-```
-Choose an option:
-1) Camera Phish - Front
-2) Camera Phish - Back
-3) DedSec Database
-4) Donation Phishing
-5) OSINTDS
-6) NAIOVUM
-7) T-Login
-8) Customization
-9) Exit
-```
+2. Navigate to the project directory:
+   ```bash
+   cd Dumb Boy
+   ```
 
-Simply enter the number corresponding to the option you want to execute, and the script will take care of the rest.
+3. Make the script executable:
+   ```bash
+   chmod +x ds.py
+   ```
+
+4. Run the script:
+   ```bash
+   python ds.py
+   ```
+
+## Additional Information
+
+Please read the README files located in each folder for detailed information on the functionalities of each script.
