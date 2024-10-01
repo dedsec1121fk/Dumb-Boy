@@ -59,3 +59,7 @@
 ## Additional Information
 
 Please read the README files located in each folder for detailed information on the functionalities of each script.
+
+## Original Work
+
+Every program included in this project has been created by me. I strive to ensure quality and functionality in all scripts provided.
