@@ -9,7 +9,7 @@
 - **T-Login**: Manage user logins with the T-Login script.
 - **Customization**: Launch the customization script to modify your Termux environment.
 
-##The scripts listed in the menu must be present in the following directory structure:
+The scripts listed in the menu must be present in the following directory structure:
 
 ```
 ~/Dumb Boy/
