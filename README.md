@@ -1,5 +1,3 @@
-Dumb Boy is a comprehensive suite of tools and scripts designed to enhance the user experience in Termux, a terminal emulator and Linux environment for Android. This project encompasses a variety of functionalities aimed at developers, cybersecurity enthusiasts, and terminal users seeking both productivity enhancements and educational tools.
-
 ## Dumb Boy Features
 
 ### Camera Phish
