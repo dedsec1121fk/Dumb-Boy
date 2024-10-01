@@ -7,7 +7,6 @@
 - **OSINTDS**: Execute the OSINT data scraping script.
 - **NAIOVUM**: Configure and set up Neovim using NAIOVUM.
 - **T-Login**: Manage user logins with the T-Login script.
-- **Customization**: Launch the customization script to modify your Termux environment.
 
 ## Requirements
 
@@ -30,8 +29,6 @@
         ├── naiovum.py
     ├── T-Login/
         ├── t-login.py
-    ├── Customization/
-        ├── customization.py
 ```
 
 ## Installation
